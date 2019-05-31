@@ -10,8 +10,9 @@
 	 
 	Execution
 	----------
-	1. java -jar Cib/target/cib-assessment-0.0.1-SNAPSHOT.jar
-	2. open a browser and type http://localhost:8080 
+	1. ./mvnw package
+	2. java -jar Cib/target/cib-assessment-0.0.1-SNAPSHOT.jar
+	3. open a browser and type http://localhost:8080 
 	
 	Testing
 	----------
