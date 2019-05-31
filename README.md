@@ -20,6 +20,7 @@
 	Execution
 	----------
 	1. java -jar Cib/target/cib-assessment-0.0.1-SNAPSHOT.jar
+	2. open a browser and type http://localhost:8080 
 	
 	Testing
 	----------
