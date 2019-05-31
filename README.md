@@ -7,15 +7,6 @@
 	Java		: 11
 	jUNIT		: 4
 	
-
-	Requirements
-	-----------
-	
-	OS			:	Windows, Linux, Mac OS
-	Memory		:	512MB
-	Software	: 	Full Java JDK 11
-	
-	
 	 
 	Execution
 	----------
